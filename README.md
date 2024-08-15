@@ -1,0 +1,1 @@
+A DVD Player made in C++ it has two options(two folders) that are DVD and USB each of these options has different songs that are in .wav format and you can choose to mount device of your choice the first song starts and then user is promted if he wants to listen to next song unmount the device or turn off the device this project mainly focuses on OOP part of C++
